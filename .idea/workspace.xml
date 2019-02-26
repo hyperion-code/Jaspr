@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92597dc7-a392-4dff-8177-4fd28582b8fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cad/Solenoid.SLDASM" beforeDir="false" afterPath="$PROJECT_DIR$/cad/Solenoid.SLDASM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cad/finger subassembly.SLDASM" beforeDir="false" afterPath="$PROJECT_DIR$/cad/finger subassembly.SLDASM" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/jaspr.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -127,16 +127,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551079582989</updated>
-      <workItem from="1551079585888" duration="831000" />
+      <workItem from="1551079585888" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831000" />
+    <option name="totallyTimeSpent" value="1438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
@@ -150,7 +149,7 @@
       <window_info anchor="bottom" id="File Transfer" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2654388" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2654388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -170,7 +169,7 @@
     <entry file="file://$PROJECT_DIR$/jaspr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
